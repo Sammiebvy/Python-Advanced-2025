@@ -1,7 +1,8 @@
 # Python-Advanced-2025
-My name is Eguaroje Samuel Olayinka. I go to Veritas University.
+Team members:
+1. Eguaroje Samuel Olayinka - seguaroje@gmail.com (http://github.com/Sammiebvy)
+2. 
 
-email: seguaroje@gmail.com
 
 Instructor's name: Mubaraq (http://github.com/mubarraqqq)
 
