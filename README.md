@@ -2,6 +2,7 @@
 Team members:
 1. Eguaroje Samuel Olayinka - seguaroje@gmail.com (http://github.com/Sammiebvy)
 2. Brinemugha Ebiarede Winner - webrin2005@gmail.com (https://github.com/UXWebrin)
+3. Halima Isa Tata - isahalima18@gmail.com (http://github.com/Haleema-s)
 
 
 Instructor's name: Mubaraq (http://github.com/mubarraqqq)
